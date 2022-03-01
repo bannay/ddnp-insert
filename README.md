@@ -64,7 +64,7 @@ The dDNP insert is responsible for centering the sample in the homogeneous regio
 The insert fits in an Oxford Instruments STD Spectrostat 86/62 cryostat. A cryostat flange receives the insert facilitates a pumping outlet (KF-40). The bottom plate presses on an O-ring atop the cryostat and is screwed with 4 M5 screws. The cryostat flange is a two piece assembly constructed from 304L stainless steel and is vacuum welded together.
 
 <p align="center">
-  <img src="images/cryostat-flange.png" alt="cryostat-flange" width="100%"/>
+  <img src="images/cryostat-flange.png" alt="cryostat-flange" width="65%"/>
 </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -75,7 +75,7 @@ The insert fits in an Oxford Instruments STD Spectrostat 86/62 cryostat. A cryos
 304L stainless-steel ISO-63 flange, mates with the top of the cryostat using a centering ring equipped with an O-ring and three/four claw clamps. The flange houses multiple connectors; two hermetic bulkhead female-to-female SMA connectors (SF2991-6002,SV microwaves, FL, USA) to access the RF circuitry and two hermetic low voltage connectors (Fischer, St-Prex, Switzerland OR LEMO, Écublens, Switzerland) for helium level sensing and thermometry. Varnished 32 AWG Phosphor bronze wires are used to connect the two low voltage connectors with the sensors placed on the insert cavity. The wire thickness and material offer low thermal conductivity and high electrical resistivity. Brazed on the ISO-63 is a modified UG387 flange with four additional threaded M2 holes and an O-ring to receive a waveguide at a later stage. O-rings are lightly coated with cryogenic grease (Apiezon N, M & I Materials Ltd, Manchester, UK) to improve their seal under vacuum.
 
 <p align="center">
-  <img src="images/iso-63.png" alt="top-flange" width="100%"/>
+  <img src="images/iso-63.png" alt="top-flange" width="65%"/>
 </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -87,7 +87,7 @@ The insert fits in an Oxford Instruments STD Spectrostat 86/62 cryostat. A cryos
 The sample port was machined as whole from 304L stainless steel, slotted into the top flange (ISO-63) and vacuum-tight welded from top and below. A gate valve (01224-KA24VAT, VAT, Switzerland) and airlock adapted install above the KF16 flange.
 
 <p align="center">
-  <img src="images/sample-port.png" alt="sample-port" width="100%"/>
+  <img src="images/sample-port.png" alt="sample-port" width="65%"/>
 </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -109,7 +109,7 @@ Sample tube: 304L stainless-steel tube (Wellington Tube Supplies Ltd, Hayes, UK)
 The purging chamber receives a sample tethered via a fluid path/PEEK tube with a dynamic O-ring seal from the top and mates to a gate valve at the bottom (KF-16 flange). Prior to introducing the sample into the cryostat the atmosphere surrounding the vial is to be flushed with helium to mitigate blockage in the cryostat capillary. Not illustrate is the purging inlet, which is simply a threaded hole that matches the appropriate Legris/SMC gas quick connector.
 
 <p align="center">
-  <img src="images/purge-chamber.png" alt="purge-chamber" width="100%"/>
+  <img src="images/purge-chamber.png" alt="purge-chamber" width="65%"/>
 </p>
 
 
@@ -123,7 +123,7 @@ The purging chamber receives a sample tethered via a fluid path/PEEK tube with a
 57 mm and t = 1±0.2 mm) and welded to the sample tube. The baffles mitigate black-body radiation a towards the sample from the room temperature top flange and improve thermoacoustic stability. There are 3 semi-circle cuts in the baffles to accommodate the sample tube, waveguide and coaxial cable(s). The middle two baffles are spaced 22 mm apart, while 110 mm separate the top and bottom baffles. The top baffle is positioned 145 mm from the top flange
 
 <p align="center">
-  <img src="images/baffle.png" alt="baffle" width="100%"/>
+  <img src="images/baffle.png" alt="baffle" width="65%"/>
 </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -144,7 +144,7 @@ UK) (ID = 4.16±0.2 mm, OD = 4.80±0.2 mm and h = 780±1 mm) is welded to a modi
 The purpose of the modified UG387 flange is to allow coupling between the waveguide and microwave source. The UG387 mate found on the ISO-63 flange is to designed to accommodate the waveguide into the insert while ensuring vacuum tight mechanical coupling. Both parts are machined from 304 L stainless steel.
 
 <p align="center">
-  <img src="images/ug387.png" alt="baffle" width="100%"/>
+  <img src="images/ug387.png" alt="baffle" width="65%"/>
 </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -156,7 +156,7 @@ The cavity is a three-part assembly. The first part is a copper ring constitutin
 the cavity upper (ID = 27.5±0.2 mm, OD = 12.9±0.2 mm and h = 7±0.2 mm) is welded onto the sample tube. Second, the lower cavity is made from a cylindrical copper can (ID = 28.0±0.2 mm, and h = 30.0±0.2 mm) that tightly fits around the cavity upper and secures to it by two brass M1 screws. Two circular grooves milled in the cavity upper and lower (ID = 13.0±0.2 mm, OD = 15.0±0.2 mm and h = 1.0±0.2 mm) accommodate the coil and coil former. The third part is the cavity tail which is a copper cylinder (OD = 15.0±0.2 mm and h = 20-35 mm) with a threaded hole. The tail is screwed to the cavity lower using a brass M3 screw.
 
 <p align="center">
-  <img src="images/cavity.png" alt="cavity" width="100%"/>
+  <img src="images/cavity.png" alt="cavity" width="65%"/>
 </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
