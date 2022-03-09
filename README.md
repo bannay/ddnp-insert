@@ -173,7 +173,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Mohammed M. Albannay - [@Bannay](https://twitter.com/bannay) - bannay@gmail.com
 
-Project Link: [https://github.com/bannay/rigid-surfacecoil](https://github.com/bannay/rigid-surfacecoil)
+Project Link: [https://github.com/bannay/ddnp-insert](https://github.com/bannay/ddnp-insert)
 
 ***
 
